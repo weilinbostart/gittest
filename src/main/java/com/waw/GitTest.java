@@ -15,5 +15,6 @@ public class GitTest {
         System.out.println("hot-fix test");
         System.out.println("master commit");
         System.out.println("hot-fix commit");
+        System.out.println("真的能提交到远程库耶，好激动");
     }
 }
