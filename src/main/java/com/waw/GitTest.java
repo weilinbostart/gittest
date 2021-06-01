@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("this is git test");
         System.out.println("second commit");
         System.out.println("third commit");
+        System.out.println("hot-fix test");
     }
 }
